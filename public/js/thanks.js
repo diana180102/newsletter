@@ -6,5 +6,5 @@ document.querySelector('.email').innerHTML = localStorage.getItem('email');
         
 
 btn.addEventListener('click', () =>{
-        window.location.hfre('index.html');
+        window.location.href('index.html');
 });
