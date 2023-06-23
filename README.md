@@ -1,2 +1,2 @@
 # newsletter
-Creation of subcription to new newsletter with HTML, CSS , JAVACRIPT
+Creation of subcription to new newsletter with HTML, CSS , JAVASCRIPT
